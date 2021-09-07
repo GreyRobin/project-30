@@ -1,2 +1,2 @@
-# zombie-crush-boilerplate
-boilerplate for crush the zombie game
+# zombie-crush-2
+project solution for c30

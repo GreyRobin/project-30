@@ -21,13 +21,13 @@ var backgroundImage;
 var stones = [];
 
 function preload() {
-  zombie1 = loadImage("assets/zombie1.png");
-  zombie2 = loadImage("assets/zombie2.png");
+  zombie1 = loadImage("./assets/zombie1.png");
+  zombie2 = loadImage("./assets/zombie2.png");
 
-  zombie3 = loadImage("assets/zombie3.png");
-  zombie4 = loadImage("assets/zombie4.png");
+  zombie3 = loadImage("./assets/zombie3.png");
+  zombie4 = loadImage("./assets/zombie4.png");
 
-  backgroundImage = loadImage("assets/background.png");
+  backgroundImage = loadImage("./assets/background.png");
 }
 
 function setup() {
